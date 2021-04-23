@@ -1,0 +1,1 @@
+The frames need this format and name: 'frame(frame number).jpeg'
