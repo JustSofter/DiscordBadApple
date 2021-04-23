@@ -5,9 +5,22 @@ Created with Node.JS v15
 ## Installing the NPM packages
 
 First, install Discord.JS, Glob and asciify-image
+
+
 ``` npm i discord.js glob asciify-image ```
+
+Insert your bot token to config.json
+
+``` 
+{
+"token": "your-token-here"
+}
+```
+
 Then, run the bot.
+
 ``` node index.js ```
+
 And run the command ?badapple
 
 
