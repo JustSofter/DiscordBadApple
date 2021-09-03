@@ -1,1 +1,3 @@
 The frames need this format and name: 'frame(frame number).jpeg'
+
+For example: frame1.jpeg
